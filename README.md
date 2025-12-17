@@ -1,5 +1,5 @@
 ## ✨ About Me
-- 🎓 **학교**: 건양대학교 의료인공지능학과
+- 🎓 **학교**: 건양대학교 의료인공지능학과  
 Interests: Deep Learning, Image Processing, Speech Processing, Data Analysis
 
 ## 📄 **학술대회 논문**:
@@ -17,3 +17,24 @@ Interests: Deep Learning, Image Processing, Speech Processing, Data Analysis
 - 시각 쟁애인을 위한 가이드독 프로젝트에 참여했습니다.
 - YOLO 모델을 활용한 횡단보도 탐지 및 세그멘테이션 모델 계발을 연구하였습니다.
 
+
+## Tech Stack
+
+<div align="left">
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-FDE68A?style=for-the-badge&logo=python&logoColor=white"/>
+
+<!-- PyTorch -->
+<img src="https://img.shields.io/badge/PyTorch-FECACA?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<!-- NumPy -->
+<img src="https://img.shields.io/badge/NumPy-A7F3D0?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<!-- scikit-learn -->
+<img src="https://img.shields.io/badge/scikit--learn-BFDBFE?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<!-- Librosa -->
+<img src="https://img.shields.io/badge/Librosa-FBCFE8?style=for-the-badge&logo=musicbrainz&logoColor=white"/>
+
+</div>
